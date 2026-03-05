@@ -42,8 +42,8 @@ android {
 }
 
 dependencies {
-    // GeckoView Engine - Release Version
-    implementation("org.mozilla.geckoview:geckoview:121.0")
+    // GeckoView Engine - Stable Release
+    implementation("org.mozilla.geckoview:geckoview:119.0")
 
     implementation("androidx.core:core-ktx:1.10.1")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.1")
